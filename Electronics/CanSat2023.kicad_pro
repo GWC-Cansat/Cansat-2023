@@ -333,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Kicad2023.kicad_pro",
+    "filename": "CanSat2023.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -412,7 +412,7 @@
   },
   "sheets": [
     [
-      "8493768d-c357-467b-b300-319b43da347a",
+      "18a76de9-b9b0-4e6a-bac1-84bc5f50b69a",
       ""
     ]
   ],
